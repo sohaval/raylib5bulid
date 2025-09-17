@@ -1,1 +1,1 @@
-# raylib5bulid
+# raylib5bulid C and GCC
